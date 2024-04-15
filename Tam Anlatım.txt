@@ -1,0 +1,6 @@
+Devreyi Yaptıktan Sonra Gamepad Adlı Arduino Dosyası Açıp İçindeki Kodu deevreye Yükledikten sonra devre pc bağlı şekilde gamepad adlı pythone kodunu çalıştırın ve sonra iki koduda kapamadan oyuna girip atmalarınızı yapa bilirsiniz
+
+Beni Tercih Ettiğiniz için teşekürler
+Detaylı Anlatım ilerde kanalımda yapıcam 
+
+:)

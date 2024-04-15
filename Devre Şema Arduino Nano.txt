@@ -1,0 +1,15 @@
+D2 = Buton 1
+D3 = Buton 2
+D4 = Buton 3
+D5 = Buton 4
+D6 = Buton 5
+D7 = Buton 6
+D8 = Buton 7
+D9 = Buton 8
+D10 = Joyistick Swich 1 ( Eğer Varsa )
+D11 = Joyistick Swich 2 ( Eğer Varsa )
+
+Joyistick 1 X = A0
+Joyistick 1 Y = A1
+Joyistick 2 X = A2
+Joyistick 2 Y = A3
